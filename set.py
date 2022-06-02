@@ -1,9 +1,8 @@
 # def set_shallow_copy(set_1: set):
 #     new_set = set_1.copy()
-#     return new_set
-#
-#
-# set_1 = {1, 5, "abc", (1, "hi")}
+
+
+ set_1 = {1, 5, "abc", (1, "hi")}
 # print("old set is: ", set_1, "\n",id(set_1), "\n new set: ", set_shallow_copy(set_1), "\n", id(set_shallow_copy(set_1)))
 
 # def max_and_min_set(set_2: set):

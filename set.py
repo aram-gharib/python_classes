@@ -10,8 +10,8 @@
 #
 #       return  dict([("min", sorted(new_list)[0]), ("max", sorted(new_list)[-1])])
 #
-# set_2 = {1, 4, 3, 9, 7}
-# print(max_and_min_set(set_2))
+ set_2 = {1, 4, 3, 9, 7}
+ print(max_and_min_set(set_2))
 # set_of_numbers = {5, 3, 1, 7, 0}
 # new_set = list(set_of_numbers)
 # print("Minimum value is: ", sorted(new_set)[0], "\n maximum value is: ", sorted(new_set)[-1])
